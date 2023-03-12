@@ -1,0 +1,6 @@
+venv/
+.mypy_cache/
+.vscode/
+shortener.db
+.env
+shortener_app/__pycache__
